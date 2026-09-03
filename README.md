@@ -1,129 +1,67 @@
-Muhammed Kabiru — QA Testing Portfolio
-Junior QA Tester | Manual Testing | API Testing | SQL Validation
+# Muhammed Kabiru — QA Testing Portfolio
+
+## Junior QA Tester | Manual Testing | API Testing | SQL Validation
 
 Welcome to my QA Testing Portfolio.
 
 I am an entry-level QA Tester with a background in Computer Engineering and ICT Support. I have practical experience in manual software testing, REST API testing, SQL database validation, defect reporting, and Agile testing practices.
 
-This portfolio demonstrates my ability to analyze software requirements, design test cases, execute tests, identify defects, and validate application quality.
+This portfolio demonstrates my ability to analyze requirements, create test cases, execute tests, identify defects, and validate software quality.
 
-Technical Skills
-Manual Testing
-Functional Testing
-Regression Testing
-Smoke Testing
-Sanity Testing
-End-to-End Testing
-Test Case Creation
-Test Scenario Design
-Test Execution
-Bug Reporting
-Severity and Priority Classification
-API Testing
+---
 
-Tools:
+# Skills
 
-Postman
+## Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Test Case Creation
+- Test Execution
+- Bug Reporting
+- Defect Lifecycle Management
 
-Skills:
+## API Testing
+- Postman
+- REST API Testing
+- GET, POST, PUT, DELETE Requests
+- JSON Validation
+- HTTP Status Code Testing
 
-REST API Testing
-GET Requests
-POST Requests
-PUT Requests
-DELETE Requests
-JSON Response Validation
-HTTP Status Code Validation
-Database Testing
+## Database Testing
+- SQL Queries
+- Data Validation
+- SELECT Statements
+- WHERE Conditions
+- JOIN Queries
+- Aggregate Functions
 
-SQL Skills:
+## Agile Tools
+- Jira
+- Scrum
+- User Stories
+- Acceptance Criteria
 
-SELECT Queries
-WHERE Filtering
-ORDER BY
-COUNT()
-SUM()
-AVG()
-MAX()
-MIN()
-GROUP BY
-INNER JOIN
-LEFT JOIN
-Basic Subqueries
-Agile & QA Tools
-Jira
-Scrum Framework
-User Stories
-Acceptance Criteria
-Defect Lifecycle Management
-Projects
-Project 1: E-Commerce Application Manual Testing
-Application:
+---
 
-SauceDemo E-Commerce Website
+# Projects
+
+## 1. SauceDemo E-Commerce Manual Testing
 
 Testing Type:
-
 Manual Functional Testing
 
-Objective:
+Covered:
+- Login Testing
+- Product Testing
+- Shopping Cart Testing
+- Checkout Testing
+- Input Validation Testing
 
-To validate the functionality and user experience of an e-commerce application.
+Documents:
+- Test Plan
+- Test Cases
+- Bug Reports
+- Test Execution Report
 
-Features Tested:
-Authentication
-Valid login
-Invalid login
-Empty field validation
-Product Module
-Product display
-Product information validation
-Add to cart functionality
-Shopping Cart
-Add products
-Remove products
-Cart count validation
-Multiple product handling
-Checkout
-Customer information validation
-Order summary verification
-Order completion
-Deliverables:
-Test Plan
-Test Cases
-Bug Reports
-Test Execution Report
-Project 2: REST API Testing
-API:
-
-JSONPlaceholder REST API
-
-Tool:
-
-Postman
-
-Objective:
-
-Validate CRUD operations and API responses.
-
-Tests Performed:
-Method	Purpose	Result
-GET	Retrieve users	PASS
-POST	Create user	PASS
-PUT	Update user	PASS
-DELETE	Delete user	PASS
-Skills Demonstrated:
-API request creation
-Response validation
-Status code testing
-JSON validation
-Project 3: Database Testing Using SQL
-Objective:
-
-Validate application data stored in databases.
-
-SQL Skills Applied:
-Data retrieval
-Data filtering
-Data aggregation
-Table relationships
+Folder:
